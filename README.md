@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">A freelance web developer</h3>
+<h3 align="center">A software developer</h3>
 
 - 🔭 I’m currently working on [UnitKo](https://github.com/jsbalabat/unit-ko)
 
