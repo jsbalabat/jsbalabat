@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [UnitKo](https://github.com/jsbalabat/unit-ko)
 
-- 🌱 I’m currently learning **Cloud Services**
+- 🌱 I’m interested in learning **Cloud Services**
 
 - 👯 I’m looking to collaborate on **React Apps**
 
